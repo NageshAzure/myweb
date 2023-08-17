@@ -18,8 +18,11 @@
                 <target>1.8</target>
             </configuration>
         </plugin>
+        <!-- Other plugins -->
     </plugins>
+    <!-- Other build configurations -->
 </build>
+
 	<properties>
 		<docker.image.prefix>kammana</docker.image.prefix>
 		<sonar.host.url>http://18.181.164.81:9000/</sonar.host.url>
